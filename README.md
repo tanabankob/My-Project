@@ -11,6 +11,7 @@ My data science and analytics projects
 
 ## Contact Me
 reach out to me at t.pongpakdecha@icloud.com
+and this my website https://analysthaus.wordpress.com
 
 ## Image
 ![Alt text](image URL)
