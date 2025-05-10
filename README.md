@@ -14,6 +14,13 @@ This bootcamp runs about 4 months, 10 sprints.
 - Python
 - Dashboard
 
+I love `R programing`.
+
+## Code Block
+```sql
+SELECT "hello world" FROM bootcamp;
+```
+
 ## My personal project
 
 1. SQL supermarket analysis
@@ -22,6 +29,8 @@ This bootcamp runs about 4 months, 10 sprints.
 4. Looker Dashboard
 5. Linear Regression Model using caret
 6. Data Visualisation using dataset from **Global Fashion Retail Sales**
+
+
 
 ## Contact Me
 reach out to me at t.pongpakdecha@icloud.com
