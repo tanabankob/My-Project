@@ -26,7 +26,7 @@ This bootcamp runs about 4 months, 10 sprints.
 ## Contact Me
 reach out to me at t.pongpakdecha@icloud.com
 
-and this my website https://analysthaus.wordpress.com
+and this my website https://analysthaus.wordpress.com you can read at **About Me** for more details about me
 
 ## My scatter plot
 ![Image from my Website](https://analysthaus.wordpress.com/wp-content/uploads/2025/05/mpg_hp_lmrplot.png)
