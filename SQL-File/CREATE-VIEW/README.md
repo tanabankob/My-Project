@@ -1,6 +1,6 @@
 # CREATE VIEW
-การสร้าง virture table โดย fuction {CREATE VIEW} เหมือนการสร้าง table เสมือน 
-ที่มี colum ที่เราต้องการ แบบ การสร้าง table ที่คำนวณอะไรบางอย่างเอาไว้ แต่ไม่ได้ต้องการให้เข้าไปอยู่ในdataจริง
+การสร้าง virture table โดย function {CREATE VIEW} เหมือนการสร้าง table เสมือน 
+ที่มี column ที่เราต้องการ แบบการสร้าง table ที่คำนวณอะไรบางอย่างเอาไว้ แต่ไม่ได้ต้องการให้เข้าไปอยู่ในdataจริง
 
 โดยเวลาเรียกใช้ สามารถ `SELECT * FROM invoice_jan2009` ได้เลย
 ```sql
